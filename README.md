@@ -22,11 +22,10 @@
     </summary>
 <br><br><br>
 </details>
-  
 </h2>
 </div>
 
-<br><br>
+<br>
 
 <div>
  <h2>
@@ -34,10 +33,9 @@
     <summary><img align="left" width="130" height="43" src="/images/Exercises_btn.png">
     </summary>
 </details>
-  
 </h2>
 </div>
-<br><br>
+<br>
 
 <div>
   <h2>
@@ -45,20 +43,19 @@
     <summary><img align="left" width="130" height="43" src="/images/Resources_btn.png">
     </summary>
 </details>
-   
 </h2>
 </div>
 
-<br><br>
+<br>
 
 <div>
   <h2>
 <details>
     <summary><img align="left" width="100" height="43" src="/images/Data_btn.png">
 </details>
- 
 </h2>
 </div>
+ 
 <br><br>
 
 
