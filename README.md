@@ -8,10 +8,10 @@
 
 &nbsp;
 
-<div width="80%">
+<div>
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;">img align="left" width="300" height="200" src="/images/WWCodePythonLogo.png"><br></th>
+    <th style="border: none;"><img align="left" width="300" height="200" src="/images/WWCode_Python_Binary_Filled_NEW.png"><br></th>
     <td align="left" style="border: none;"><p vertical-align="middle"><h1>Quick Links</h1></p>
 <br>
 <div>
