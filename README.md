@@ -12,8 +12,7 @@
 
 
 
-<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
-<br><br>
+<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 
 <div>
  <h2>
