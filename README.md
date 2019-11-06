@@ -11,7 +11,7 @@
 <div>
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;"><img align="left" width="350" height="200" src="/images/WWCode_Python_Binary_Filled_Rotated.png"><br></th>
+    <th style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="200" height="350" src="/images/WWCode_Python_Binary_Filled_Rotated.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></th>
     <td align="center" style="border: none;"><p vertical-align="middle"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></p>
 <br>
 <div>
