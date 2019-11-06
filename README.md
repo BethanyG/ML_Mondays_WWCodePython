@@ -11,8 +11,8 @@
 <div>
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;"><img align="left" width="300" height="200" src="/images/WWCode_Python_Binary_Filled_NEW.png"><br></th>
-    <td align="left" style="border: none;"><p vertical-align="middle"><h1>Quick Links</h1></p>
+    <th style="border: none;"><img align="left" width="350" height="200" src="/images/WWCode_Python_Binary_Filled_Rotated.png"><br></th>
+    <td align="center" style="border: none;"><p vertical-align="middle"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></p>
 <br>
 <div>
 <details>
