@@ -11,12 +11,12 @@
 <div>
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;"><img align="left" width="350" height="200" src="images/WWCode_Python_Binary_Filled_NEW.png"><br></th>
-    <td width="60%" align="left" style="border: none;"><p vertical-align="middle"><h1>Jupyter Notebooks, Data, Resources & Homework </h1></p>
+    <th style="border: none;"><br></th>
+    <td width="80%" align="left" style="border: none;"><p vertical-align="middle"><h1>Jupyter Notebooks, Resources, Exercises, & Data </h1></p>
 <br>
 <div>
 <details>
- 	<summary><img align="left" width="120" height="45" src="/images/Notes.png"><br>
+ 	<summary><img align="left" width="130" height="45" src="/images/Jupyter_btn.png"><br>
     </summary>
     
 <br>
@@ -30,7 +30,29 @@
 <br>
 <div>
 <details>
-    <summary><img align="left" width="120" height="45" src="/images/Code.png">
+    <summary><img align="left" width="130" height="43" src="/images/Exercises_btn.png">
+    </summary>
+<br>
+  
+
+<br>
+</details>
+</div>
+<br>
+<div>
+<details>
+    <summary><img align="left" width="130" height="43" src="/images/Resources_btn.png">
+    </summary>
+<br>
+  
+
+<br>
+</details>
+</div>
+<br>
+<div>
+<details>
+    <summary><img align="left" width="100" height="43" src="/images/Data_btn.png">
     </summary>
 <br>
   
