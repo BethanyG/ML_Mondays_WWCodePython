@@ -18,7 +18,7 @@
 
 <div>
 <details>
- 	<summary><img align="left" width="130" height="45" src="/images/Jupyter_btn.png"><br>
+ 	<summary><img align="left" width="130" height="43" src="/images/Jupyter_btn.png">
     </summary>
 <br><br><br>
 </details>
@@ -48,5 +48,8 @@
     <summary><img align="left" width="100" height="43" src="/images/Data_btn.png">
 </details>
 </div>
-</h2></p>
+<br><br>
+
+</h2>
+</p>
 
