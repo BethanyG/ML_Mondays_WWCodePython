@@ -14,11 +14,9 @@
 
 &nbsp;
 
-<div align="right">
-<table style="border: none;">
-  <tr style="border: none;">
-    <tr style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="350" height="200" src="/images/WWCode_Python_Binary_Filled_NEW.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br></tr>
-    <td align="center" style="border: none;"><p vertical-align="middle"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></p>
+<div>
+<table align="right">
+    <td align="right" style="border: none;"><p vertical-align="middle"><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></p>
 <br>
 <div>
 <details>
