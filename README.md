@@ -10,13 +10,13 @@
 
 
 
-<br><br><br>
-<p>
-<img align="left" width="130" height="43" src="/images/spacer_clear.png">
-<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2>
 <br><br>
 
 <div>
+ <h2>
 <details>
  	<summary><img align="left" width="130" height="43" src="/images/Jupyter_btn.png">
     </summary>
@@ -51,5 +51,5 @@
 <br><br>
 
 </h2>
-</p>
+
 
