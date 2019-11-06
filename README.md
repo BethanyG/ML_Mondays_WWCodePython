@@ -25,8 +25,6 @@
 </h2>
 </div>
 
-<br>
-
 <div>
  <h2>
 <details>
@@ -35,7 +33,6 @@
 </details>
 </h2>
 </div>
-<br>
 
 <div>
   <h2>
@@ -45,8 +42,6 @@
 </details>
 </h2>
 </div>
-
-<br>
 
 <div>
   <h2>
