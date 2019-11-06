@@ -1,7 +1,7 @@
 <br>
 
-<img align="left" width="130" src="images/ML_Mondays.png">
-<p vertical-align="middle"><h1>&nbsp;ML Mondays with WWCodePython</h1>
+<img align="left" width="130" src="images/ML Mondays_II.png">
+<p vertical-align="left"><h1>&nbsp;ML Mondays with WWCodePython</h1>
 </p>
 
 <br><br><br><br>
