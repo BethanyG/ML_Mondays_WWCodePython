@@ -4,11 +4,9 @@
 <p vertical-align="top"><h1>&nbsp;ML Mondays with WWCodePython</h1>
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 &nbsp;
-
-Welccome to the Machine Learning Mondays Study Group Repo!
 
 <div>
 <table style="border: none;">
