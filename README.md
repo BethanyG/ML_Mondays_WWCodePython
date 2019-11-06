@@ -8,11 +8,11 @@
 
 &nbsp;
 
-<div>
+<div width="80%">
 <table style="border: none;">
   <tr style="border: none;">
-    <th style="border: none;"><br></th>
-    <td width="80%" align="left" style="border: none;"><p vertical-align="middle"><h1>Jupyter Notebooks, Resources, Exercises, & Data </h1></p>
+    <th style="border: none;">img align="left" width="300" height="200" src="/images/WWCodePythonLogo.png"><br></th>
+    <td align="left" style="border: none;"><p vertical-align="middle"><h1>Quick Links</h1></p>
 <br>
 <div>
 <details>
