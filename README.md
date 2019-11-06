@@ -12,10 +12,9 @@
 
 <br><br><br>
 
-&nbsp;
+<div width="50%">  </div>
 
-<div width="70%" align="center">
-  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h1></p>
+<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></p>
 <br>
 <div>
 <details>
@@ -63,8 +62,5 @@
 <br>
 </details>
 </div>
-</td>
-  </tr>
-</table>
 </div>
 
