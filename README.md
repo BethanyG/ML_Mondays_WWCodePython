@@ -11,56 +11,42 @@
 
 
 <br><br><br>
+<p>
+<img align="left" width="130" height="43" src="/images/spacer_clear.png">
+<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<div width="50%">  </div>
-
-<h2>Quick Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h2></p>
-<br>
 <div>
 <details>
  	<summary><img align="left" width="130" height="45" src="/images/Jupyter_btn.png"><br>
     </summary>
-    
-<br>
-
-
-<br>
-<br>
-
+<br><br><br>
 </details>
 </div>
-<br>
+
+<br><br>
+
 <div>
 <details>
     <summary><img align="left" width="130" height="43" src="/images/Exercises_btn.png">
     </summary>
-<br>
-  
-
-<br>
 </details>
 </div>
-<br>
+<br><br>
+
 <div>
 <details>
     <summary><img align="left" width="130" height="43" src="/images/Resources_btn.png">
     </summary>
-<br>
-  
-
-<br>
 </details>
 </div>
-<br>
+
+<br><br>
+
 <div>
 <details>
     <summary><img align="left" width="100" height="43" src="/images/Data_btn.png">
-    </summary>
-<br>
-  
-
-<br>
 </details>
 </div>
-</div>
+</h2></p>
 
