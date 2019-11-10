@@ -20,6 +20,9 @@
  	<summary><img align="left" width="130" height="43" src="/images/Jupyter_btn.png">
     </summary>
 <br><br><br>
+ 
+ *  [**A Whirlwind Tour of Python**](https://github.com/BethanyG/ML_Mondays_WWCodePython/blob/master/Python%20Whirlwind%20Tour.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BethanyG/ML_Mondays_WWCodePython/blob/master/Python%20Whirlwind%20Tour.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BethanyG/ML_Mondays_WWCodePython/master?filepath=Python%20Whirlwind%20Tour.ipynb)
+ 
 </details>
 </h2>
 </div>
