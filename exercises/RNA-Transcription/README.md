@@ -26,7 +26,7 @@ _This exercise can be solved in _**many**_ different ways. It's designed to  get
 *  [**collections**](https://docs.python.org/3/library/collections.html)
 *  [**itertools**](https://docs.python.org/3.1/library/itertools.html) or  [**functools**](https://docs.python.org/3.6/library/functools.html) modules
 * [**numpy**](http://www.numpy.org/) or [**pandas**](https://pandas.pydata.org/) libraries
-* [**error handling**]()
+* [**error handling**](https://docs.python.org/3/tutorial/errors.html?highlight=error%20handling)
 * [**biopython**](http://biopython.org/) or [**libnano**](https://github.com/libnano/libnano) - _for the really inspired_
 
 
