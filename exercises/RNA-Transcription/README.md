@@ -59,13 +59,13 @@ Life depends on the ability of cells to store, retrieve, and translate genetic i
 These genetic instructions are expressed in organisms via _**Proteins**_.
 
 For a long time it wasn't clear to scientists which molecules were able to copy & transmit genetic information, or how the process worked. Today, thanks to _**`James Watson`**, **`Francis Crick`**, **`Rosalind Franklin`**, & **`Maurice Wilkins`**_ -- among many others --
-we know this genetic information is carried by [**dioxyribonucleic acid or DNA**](), & transmitted via [**mRNA**]().
+we know this genetic information is carried by [**dioxyribonucleic acid or DNA**](https://ghr.nlm.nih.gov/primer/basics/dna), & transmitted via [**mRNA**](https://www.genome.gov/genetics-glossary/messenger-rna).
 
-DNA is a [**double helix**](https://geneed.nlm.nih.gov/topic_subtopic.php?tid=15&sid=16) -- but for the purpose of this exercise it's easiest to visualize it as a one dimensional string of 4 repeating characters: **A, C, G, & T**.  These 4 **bases** represent the first letters of the four [_**nucleotides**_]() that make up DNA: _adenine_ (**A**), _cytosine_ (**C**), _guanine_ (**G**), and _thymine_ (**T**).
+DNA is a [**double helix**](https://geneed.nlm.nih.gov/topic_subtopic.php?tid=15&sid=16) -- but for the purpose of this exercise it's easiest to visualize it as a one dimensional string of 4 repeating characters: **A, C, G, & T**.  These 4 **bases** represent the first letters of the four [_**nucleotides**_](https://www.genome.gov/genetics-glossary/Nucleotide) that make up DNA: _adenine_ (**A**), _cytosine_ (**C**), _guanine_ (**G**), and _thymine_ (**T**).
 
 Prior to forming proteins, information in DNA is transferred to a _messenger RNA_ (**mRNA**) molecule in a process called [**transcription**](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna/a/overview-of-transcription). The resulting mRNA is a single-stranded copy of a gene from the source DNA.
 
-This mRNA is then [**translated**](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides/a/translation-overview) according to the [**genetic code**]().  The  **_genetic code_** maps a **DNA/mRNA** sequence into an **amino acid sequence** for a protein.
+This mRNA is then [**translated**](https://www.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides/a/translation-overview) according to the [**genetic code**](https://openstax.org/books/biology-2e/pages/15-1-the-genetic-code).  The  **_genetic code_** maps a **DNA/mRNA** sequence into an **amino acid sequence** for a protein.
 
 <br>
 
@@ -155,7 +155,7 @@ This mRNA is then [**translated**](https://www.khanacademy.org/science/biology/g
 
 <br>
 
- Each group of _**nucleotide triplets**_ (called a **codon**) in the mRNA correspond to a specific amino acid. The **mRNA codon** sequence is used as a template to assemble-in-order (via [**tRNA**]()), a chain of amino acids -- which then form a protein (see [**this article**](https://www.nature.com/scitable/topicpage/translation-dna-to-mrna-to-protein-393) for more specific detail).
+ Each group of _**nucleotide triplets**_ (called a **codon**) in the mRNA correspond to a specific amino acid. The **mRNA codon** sequence is used as a template to assemble-in-order (via [**tRNA**](https://www.nature.com/scitable/definition/trna-transfer-rna-256/)), a chain of amino acids -- which then form a protein (see [**this article**](https://www.nature.com/scitable/topicpage/translation-dna-to-mrna-to-protein-393) for more specific detail).
 
 Protein assembly starts with the _**start codon**_ (**AUG**), & proceeds down the mRNA sequence until a _**stop codon**_ is reached.
 
