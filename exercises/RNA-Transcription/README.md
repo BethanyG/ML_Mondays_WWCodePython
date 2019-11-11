@@ -15,13 +15,13 @@ _This exercise can be solved in _**many**_ different ways. It's designed to  get
 * [**string replacement**](https://docs.python.org/3/library/stdtypes.html#str.replace) & string [**find**](https://docs.python.org/3/library/stdtypes.html#str.find)
 * [**dictionaries**](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) or other dictionary-like structures
 * the [**modulo operator**](https://docs.python.org/3/reference/expressions.html?highlight=modulo#binary-arithmetic-operations)
-* string [**indexing**]() & string [**slicing**]()
-* writing test cases in [**unittest**]() or [**doctest**]() (_if you chose to go that route_)
+* string [**indexing & slicing**](https://docs.python.org/3/tutorial/introduction.html?highlight=string%20slicing#strings)
+* writing test cases in [**unittest**](https://docs.python.org/3/library/unittest.html?highlight=unittest#module-unittest) or [**doctest**](https://docs.python.org/3/library/doctest.html?highlight=unittest) (_if you chose to go that route_)
 
 <br>
 
 **Optionally, you could use:**
-* [**regex**]() or [**re**]()
+* [**regex**](https://www.rexegg.com/regex-quickstart.html) or [**re**](https://docs.python.org/3/library/re.html?highlight=re#module-re)
 * [**string**](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str) (_in particular, **`str.maketrans`** & **`str.translate`**_)
 *  [**collections**](https://docs.python.org/3/library/collections.html)
 *  [**itertools**](https://docs.python.org/3.1/library/itertools.html) or  [**functools**](https://docs.python.org/3.6/library/functools.html) modules
