@@ -252,11 +252,11 @@ _Think about how you would look for the start codon.  What tecniques could you u
 <br>
 
 
-_**mRNA codons**_ are translated according to :
+_**mRNA codons**_ are translated according to **The Genetic Code**:
 
 <details>
     <summary>
-    <h3>&nbsp; The Genetic Code <img align="left" width="85" height="35" src="../../images/genetic_code_btn.png">
+   <img align="left" width="90" height="35" src="../../images/genetic_code_btn.png">
     </summary>
 
 <br>
