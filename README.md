@@ -32,6 +32,11 @@
 <details>
     <summary><img align="left" width="130" height="43" src="/images/Exercises_btn.png">
     </summary>
+ 
+ <br><br>
+ 
+ *  [**Whirlwind Python Tour :**  _Making a Protein from DNA_](exercises/homework.md)
+ 
 </details>
 </h2>
 </div>
@@ -42,7 +47,7 @@
     <summary><img align="left" width="130" height="43" src="/images/Resources_btn.png">
     </summary>
  
- <br>
+ <br><br>
  
  *  [**Machine Learning in Laymens Terms**](https://drive.google.com/open?id=1xyBNBgOW6uR9Wzf5SiJrMHZK0alvrr3s)
  *  [**Machine Learning Cheat Sheet**](https://drive.google.com/open?id=1lxb-7FWiY5KwTYehcPhn67tFu5ZHvJDH)
