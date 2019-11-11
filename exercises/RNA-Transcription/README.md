@@ -337,9 +337,13 @@ _**mRNA codons**_ are translated according to **The Genetic Code**:
 <br>
 
 
-_What kind of data structure can you use to represent the Genetic Code? How do you translate or map your codons to it?  What data structure will you use to store output?  How will you verify that you have a correct result?_
+_What kind of data structure can you use to represent the **Genetic Code**?_  
+_How do you translate or map your codons to it?_  
+_What data structure will you use to store output?_  
+_How will you verify that you have a correct result?_  
 
-Once the mapping is complete, we have an amino acid chain!
+<br><br>
+.......Once the mapping is complete, we have an **amino acid chain!**  
 
 <br>
 
