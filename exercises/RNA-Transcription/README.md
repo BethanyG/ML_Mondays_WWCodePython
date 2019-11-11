@@ -1,8 +1,5 @@
-<link rel="stylesheet" type="text/css" href="../../styles/base.css">
 
-<br>
-
-<img align="left" width="70" height="125" src="../../../images/dna.png">
+<img align="left" width="70" height="125" src="../../images/dna.png">
 <p vertical-align="middle"><h1>&nbsp; Making a Protein from DNA</h1></p>
 
 <br>
@@ -46,7 +43,7 @@ _Below we've given you a backstory, but you may not need all of the detail.  Ref
 <br>
 
 <details>
-    <summary><img align="left" width="100" height="45" src="../../../images/details.png">
+    <summary><img align="left" width="100" height="45" src="../../images/details.png">
       <br>
     </summary>
 
@@ -74,7 +71,7 @@ This mRNA is then [**translated**](https://www.khanacademy.org/science/biology/g
 
 <details>
     <summary>
-    <img align="left" width="90" height="35" src="../../../images/genetic_code_btn.png">
+    <img align="left" width="90" height="35" src="../../images/genetic_code_btn.png">
     </summary>
 
 <br>
@@ -198,7 +195,7 @@ You should then verify the results with the provided mRNA & amino acid informati
 ## Detailing the Steps
 
 
-<img align="left" width="100" height="40" src="../../../images/FIRST.png"><p><h4>&nbsp; <em>Translate</em> DNA into mRNA</h4></p>
+<img align="left" width="100" height="40" src="../../images/FIRST.png"><p><h4>&nbsp; <em>Translate</em> DNA into mRNA</h4></p>
 
 
 <br>
@@ -235,7 +232,7 @@ _How do you read/verify your input, & store your output?_
 
 <hr>
 
-<img align="left" width="100" height="40" src="../../../images/SECOND.png"><p><h4>&nbsp; <em>Process</em> the mRNA into <em>codons</em></h4></p>
+<img align="left" width="100" height="40" src="../../images/SECOND.png"><p><h4>&nbsp; <em>Process</em> the mRNA into <em>codons</em></h4></p>
 
 
 <br>
@@ -249,7 +246,7 @@ _Think about how you would look for the start codon.  What tecniques could you u
 <br>
 
 <hr>
-<img align="left" width="100" height="40" src="../../../images/THIRD.png"><p><h4>&nbsp; <em>Translate</em> mRNA into an <em>Amino Acid Chain</em></h4></p>
+<img align="left" width="100" height="40" src="../../images/THIRD.png"><p><h4>&nbsp; <em>Translate</em> mRNA into an <em>Amino Acid Chain</em></h4></p>
 
 
 <br>
@@ -259,7 +256,7 @@ _**mRNA codons**_ are translated according to :
 
 <details>
     <summary>
-    <h3>&nbsp; The Genetic Code <img align="left" width="90" height="35" src="../../../images/genetic_code_btn.png">
+    <h3>&nbsp; The Genetic Code <img align="left" width="90" height="35" src="../../images/genetic_code_btn.png">
     </summary>
 
 <br>
@@ -355,7 +352,7 @@ Once the mapping is complete, we have an amino acid chain!
 _We've given you some data files and Python boilerplate code to start off with.  These files can be downloaded from GitHub [**here**](./../RNA-Transcription/)_.
 
 <br>
-<img align="left" height="50" width="30" src="../../../images/start_arrow.png">
+<img align="left" height="50" width="30" src="../../images/start_arrow.png">
 <p><h4>&nbsp; &nbsp; Input Data</h4></p>
 
   *   DNA nucleotide from NCBI (the file called **_dna.txt_**)
@@ -363,7 +360,7 @@ _We've given you some data files and Python boilerplate code to start off with. 
 <br>
 
   <br>
-  <img align="left" height="45" src="../../../images/g_check.png">
+  <img align="left" height="45" src="../../images/g_check.png">
   <p><h4>&nbsp; Verification Data</h4></p>
 
 * mRNA sequence (**_mrna.txt_**)
@@ -372,7 +369,7 @@ _We've given you some data files and Python boilerplate code to start off with. 
 <br>
 
 <br>
-<img align="left" height="50" src="../../../images/code-skeleton.png">
+<img align="left" height="50" src="../../images/code-skeleton.png">
 <p><h4>&nbsp; Code Skeleton</h4></p>
 
 * **Assignment.py** --  _starter code_
@@ -389,7 +386,7 @@ _We've given you some data files and Python boilerplate code to start off with. 
 
 While testing it isn't _required_ ...you may want to take some time to write a few lightweight tests, either with [**unittest**](https://docs.python.org/3/library/unittest.html), or [**doctest**](https://docs.python.org/3/library/doctest.html).
 
-If you decide to use  [**unittest**](https://docs.python.org/3/library/unittest.html) ,  we've given you three skeletons to flesh out as you work through the exercise.
+If you decide to use  [**unittest**](https://docs.python.org/3/library/unittest.html),  we've given you three skeletons to flesh out as you work through the exercise.
 
 To run tests from the command line, navigate to the exercises root directory and (for example) run the `python rna_transcription_test.py` command.
 
