@@ -349,7 +349,7 @@ Once the mapping is complete, we have an amino acid chain!
 
 ## Files
 
-_We've given you some data files and Python boilerplate code to start off with.  These files can be downloaded from GitHub [**here**](./../RNA-Transcription/)_.
+_We've given you some data files and Python boilerplate code to start off with.  These files can be downloaded from GitHub [**here**](./../RNA-Transcription/starter_files)_.
 
 <br>
 <img align="left" height="50" width="30" src="../../images/start_arrow.png">
