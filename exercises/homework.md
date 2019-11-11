@@ -1,8 +1,6 @@
-<link rel="stylesheet" type="text/css" href="../../styles/base.css">
-
 <br>
 
-<img align="left" width="120" height="125" src="../../images/Homework.png">
+<img align="left" width="120" height="125" src="../images/Homework.png">
 <p vertical-align="middle"><h1>&nbsp; Whirlwind Python Tour Homework</h1></p>
 
 <br>
@@ -14,7 +12,7 @@
 <br>
 
 
-<img align="left" height="90" width="40" src="../../images/dna.png">
+<img align="left" height="90" width="40" src="../images/dna.png">
 <p vertical-align="middle"><a href="./RNA-Transcription/README.md"><h1>&nbsp; Making a Protein from DNA</h1></a></p>
 
 <br>
@@ -33,7 +31,7 @@ But if this  just _isn't for you_ -- you can always get your Python practice bel
 
 <br>
 
-<img align="left" width="90" src="../../images/exercism.png">
+<img align="left" width="90" src="../images/exercism.png">
 <p vertical-align="middle"><h1>&nbsp; Exercising on Exercism.io</h1></p>
 
 <br>
