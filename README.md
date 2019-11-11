@@ -51,6 +51,7 @@
  
  *  [**Machine Learning in Laymens Terms**](https://drive.google.com/open?id=1xyBNBgOW6uR9Wzf5SiJrMHZK0alvrr3s)
  *  [**Machine Learning Cheat Sheet**](https://drive.google.com/open?id=1lxb-7FWiY5KwTYehcPhn67tFu5ZHvJDH)
+ *  [**An Informal Tntroduction to Python (Python 3.8 docs)**](https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python)
  
  
 </details>
