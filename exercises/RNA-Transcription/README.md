@@ -256,7 +256,7 @@ _**mRNA codons**_ are translated according to :
 
 <details>
     <summary>
-    <h3>&nbsp; The Genetic Code <img align="left" width="90" height="35" src="../../images/genetic_code_btn.png">
+    <h3>&nbsp; The Genetic Code <img align="left" width="85" height="35" src="../../images/genetic_code_btn.png">
     </summary>
 
 <br>
@@ -264,7 +264,7 @@ _**mRNA codons**_ are translated according to :
 <div>
 <a name="genetic_code"></a>
 <p><h2 align="center">The Genetic Code</h2></p>
-  <img align="center" width="100%" src="./codon-table.png">
+ <img align="center" width="100%" src="../../images/codon-table.png">
   </div>
 <br>
 
