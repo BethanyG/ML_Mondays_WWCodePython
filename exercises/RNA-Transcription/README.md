@@ -10,11 +10,11 @@ _This exercise can be solved in _**many**_ different ways. It's designed to  get
 
 <br>
 
-* [**opening & processing files**]()
-* [**joins**]() on strings & [**string substitution**]()
-* [**string replacement**]() & string [**find**]()
-* [**dictionaries**]() or other dictionary-like structures
-* the [**modulo operator**]()
+* [**opening & processing files**](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+* [**joins**](https://docs.python.org/3/library/stdtypes.html#str.join) on strings & [**string substitution**](https://docs.python.org/3/library/stdtypes.html#str.maketrans)
+* [**string replacement**](https://docs.python.org/3/library/stdtypes.html#str.replace) & string [**find**](https://docs.python.org/3/library/stdtypes.html#str.find)
+* [**dictionaries**](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) or other dictionary-like structures
+* the [**modulo operator**](https://docs.python.org/3/reference/expressions.html?highlight=modulo#binary-arithmetic-operations)
 * string [**indexing**]() & string [**slicing**]()
 * writing test cases in [**unittest**]() or [**doctest**]() (_if you chose to go that route_)
 
