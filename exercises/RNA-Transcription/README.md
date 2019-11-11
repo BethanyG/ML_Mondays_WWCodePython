@@ -379,7 +379,7 @@ _We've given you some data files and Python boilerplate code to start off with. 
 <br>
 
 <br>
-<img align="left" height="55" src="../../../images/testing.png">
+<img align="left" height="55" src="../../images/testing.png">
 <p><h4>&nbsp; Testing</h4></p>
 
 <br>
