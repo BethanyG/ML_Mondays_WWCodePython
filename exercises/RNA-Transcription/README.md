@@ -81,7 +81,7 @@ This mRNA is then [**translated**](https://www.khanacademy.org/science/biology/g
 <div>
 <a name="genetic_code"></a>
 <p><h2 align="center">The Genetic Code</h2></p>
-  <img align="center" width="100%" src="./codon-table.png">
+  <img align="center" width="100%" src="../../images/codon-table.png">
   </div>
 <br>
 
