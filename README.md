@@ -25,6 +25,8 @@
  
  *  [**Maths for Machine Learning**](https://github.com/BethanyG/ML_Mondays_WWCodePython/blob/master/Maths_for_ML_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BethanyG/ML_Mondays_WWCodePython/blob/master/Maths_for_ML_1.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BethanyG/ML_Mondays_WWCodePython/master?filepath=Maths_for_ML_1.ipynb)
  
+*  [**Maths for Machine Learning II**](https://github.com/BethanyG/ML_Mondays_WWCodePython/blob/master/Maths_for_ML_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BethanyG/ML_Mondays_WWCodePython/blob/master/Maths_for_ML_2.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BethanyG/ML_Mondays_WWCodePython/master?filepath=Maths_for_ML_2.ipynb)
+ 
 </details>
 </h2>
 </div>
