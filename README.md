@@ -4,7 +4,7 @@
 <p vertical-align="top"><h1>&nbsp;ML Mondays with WWCodePython</h1>
 </p>
 
-
+## `Please Note`:  This Repo has been `archived`.  Please do not use or copy.  Thank You!
 
 #### Join us every other Monday as we go through Machine Learning in Python from the Ground up!  We'll start with a whirlwind review/tour of Python, then dig into some foundational libraries.  We'll also be touching on some math & statistics along the way.  As we progress further along, we'll collaborate & help each other with some fun projects.
 
